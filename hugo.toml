@@ -4,7 +4,6 @@ title = 'Documentation'
 
 publishDir = "./docs"
 
-
 [markup]
   [markup.highlight]
     style = "pastie"
